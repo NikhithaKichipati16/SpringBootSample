@@ -12,6 +12,8 @@ public class SpringWithJdbctemplateApplication {
 		log.info("Main method Started");
 		SpringApplication.run(SpringWithJdbctemplateApplication.class, args);
 		log.info("Main method ended");
+		log.info("Main method ended,Thnank you");
+
 	}
 
 }
